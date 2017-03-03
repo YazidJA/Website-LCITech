@@ -1,2 +1,0 @@
-# LCITech
-LCITech.tk
