@@ -1,2 +1,2 @@
 # LCI Tech's Home Page
-# Made with HTML/CSS/Javascript + jQuery
+Made with HTML/CSS/Javascript + jQuery
